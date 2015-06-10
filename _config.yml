@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               CppThings
 tagline:             'Everyday C++ stuff'
-description:         'description'
+description:         'Blog about day to day C++ programming.'
 url:                 http://cppthings.github.io/
 baseurl:             'http://cppthings.github.io/'
 paginate:            5
